@@ -1,61 +1,106 @@
-.container{
+.container {
     /* All Thinks Are Possible If You believe */
-position: absolute;
-width: 525px;
-height: 228px;
-left: 845px;
-right: 230px;
-top: 216px;
-bottom: 2785px;
-}
-.container{
-    color: rgb(21, 20, 20);
-font-family: Work Sans;
-font-size: 65px;
-font-weight: 700;
-line-height: 76px;
-letter-spacing: 0%;
-text-align: right;
-}
-.greeting-p{
     position: absolute;
-width: 524px;
-height: 78px;
-left: 915px;
-right: 230px;
-top: 520px;
-bottom: 2683px;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    right: 230px;
+    top: 216px;
+    bottom: 2785px;
 }
-.primary-btn{
+
+.container {
+    color: rgb(21, 20, 20);
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: 0%;
+    text-align: right;
+}
+
+.greeting-p {
+    position: absolute;
+    width: 524px;
+    height: 78px;
+    left: 915px;
+    right: 230px;
+    top: 520px;
+    bottom: 2683px;
+}
+
+.primary-btn {
     /* Rectangle 1 */
-position: absolute;
-width: 160px;
-height: 64px;
-left: 1210px;
-right: -1210px;
-top: 595px;
-bottom: -578px;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    right: -1210px;
+    top: 595px;
+    bottom: -578px;
 }
-.primary-btn{
+
+.primary-btn {
     border-radius: 3px;
-background: rgb(241, 91, 34);
-border: none;
-color: rgb(255, 255, 255);
-font-family: Work Sans;
-font-size: 20px;
-padding: 15px 35px;
+    background: rgb(241, 91, 34);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 20px;
+    padding: 15px 35px;
 }
-body
-{
+
+body {
     margin: 0px;
     padding: 0px;
 
 }
-.background{
+
+.background {
     width: 100%;
     height: 100vh;
-    background-image:url(../images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
-    background-size:cover
-    /* background-position: center; */
+    background-size: cover
+        /* background-position: center; */
+}
+
+.flex-div {
+    display: flex
+    /* justify-content: space-between;
+    align-items: center; */
+}
+
+.passages{
+    position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+right: -862px;
+top: 1296px;
+bottom: 1000px;
+}
+.list{
+    /* Group 5 */
+position: absolute;
+width: 240px;
+height: 26px;
+left: 862px;
+right: -753px;
+top: 1400px;
+bottom: -1340px;
+}
+
+.heading{
+    /* My failures of previous year */
+position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+right: -734px;
+top: 1178px;
+bottom: -872px;
+}
+img{
+    margin: 100px;
 }
