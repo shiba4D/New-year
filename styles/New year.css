@@ -85,9 +85,9 @@ bottom: 1000px;
 position: absolute;
 width: 240px;
 height: 26px;
-left: 862px;
+left: 840px;
 right: -753px;
-top: 1400px;
+top: 1370px;
 bottom: -1340px;
 }
 
@@ -98,9 +98,155 @@ width: 288px;
 height: 94px;
 left: 862px;
 right: -734px;
-top: 1178px;
+top: 1160px;
 bottom: -872px;
 }
+.heading{
+    color: rgb(21, 20, 20);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
 img{
     margin: 100px;
+}
+.Plans{
+    /* My Plans */
+position: absolute;
+width: 179px;
+height: 47px;
+left: 900px;
+right: -480px;
+top: 1800.3px;
+bottom: -1530px;
+}
+.Plans{
+    color: rgb(21, 20, 20);
+font-family: Work Sans;
+font-size: 25px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 0%;
+text-align: left;
+}
+.icons{
+  margin-left: 350px;
+}
+.web{
+    /* Web Development */
+position: absolute;
+width: 270px;
+height: 35px;
+left: 230px;
+right: -230px;
+top: 2012.26px;
+bottom: -1967.26px;
+}
+.habit-container{
+    display: flex;
+    justify-content:center;
+}
+
+.habit{
+    text-align: center;
+}
+.habit-title.habit-description{
+    padding:50px; 
+}
+.mindset{
+    /* Awlays keep a positive mindset */
+position: absolute;
+width: 459px;
+height: 94px;
+left: 294px;
+right: -294px;
+top: 2281.26px;
+bottom: -2193.26px;
+}
+.mindset{
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+}
+.mindset{
+    width: Fixed 460px;
+    height: 94px;
+    line-height: 47px;
+    text-align: left;
+}
+
+
+.btn{
+    /* Rectangle 1 */
+position: absolute;
+width: 160px;
+height: 64px;
+left: 450px;
+right: -294px;
+top: 2499.26px;
+bottom: -2399.26px;
+}
+.btn{
+    border-radius: 3px;
+    background: rgb(241, 91, 34);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 20px;
+    padding: 15px 35px;
+}
+.watch{
+    /* Rectangle 4 */
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 275px;
+right: 230px;
+top: 2222.26px;
+bottom: 706.74px;
+}
+.banar{
+/* Awlays keep a positive mindset */
+position: absolute;
+width: 1140px;
+height: 94px;
+left: 450px;
+right: -294px;
+top: 2350px;
+bottom: -2193.26px;
+}
+.banar{
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0%;
+    text-align: left;   
+}
+
+/* footer style */
+footer{
+    display: flex;
+    /* Dark 01 */
+background: rgb(21, 20, 20);
+}
+
+.footer-clumn{
+    color: white;
+    display: flex;
+    text-align: center;
+    /* Group 3936 */
+position: absolute;
+width: 485px;
+height: 317px;
+left: 230px;
+right: 885px;
+top: 2782.26px;
+bottom: 129.74px;
 }
