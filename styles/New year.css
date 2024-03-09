@@ -238,8 +238,55 @@ footer{
     background: rgb(204, 184, 184);
     margin-top: 100px;
     padding: 130px 150px;
-
+    gap: 350px;
 }
+.footer-column{
+    width: 50%;
+    
+}
+
+
+.content input, textarea{
+    display: block;
+    margin-top: 30px;
+    color: rgb(243, 243, 243);
+    width: 325px;
+    height: 60px;
+    border-radius: 5px;
+    border: 0;
+    padding:21 21 22 158 ;
+       
+}
+.wbe-Subscribe{
+    /* Rectangle 48 */
+position: absolute;
+width: 170.11px;
+height: 64px;
+left: 1126px;
+right: -1046px;
+top: 3100px;
+bottom: -2922.26px;
+border-radius: 8px;
+border: none;
+background: rgb(255, 255, 255);
+}
+.wbe-Subscribe{
+    color: rgb(241, 91, 34);
+    font-size: 20px;
+}
+
+.social-links{
+    /* Group 3934 */
+position: absolute;
+width: 100px;
+height: 46px;
+left: 50px;
+right: -219px;
+top: 3053.26px;
+bottom: -2953.26px;
+display: flex;
+}
+
 
 
 
