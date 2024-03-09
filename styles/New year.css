@@ -149,6 +149,7 @@ bottom: -1967.26px;
 .habit-container{
     display: flex;
     justify-content:center;
+    
 }
 
 .habit{
@@ -234,19 +235,11 @@ bottom: -2193.26px;
 footer{
     display: flex;
     /* Dark 01 */
-background: rgb(21, 20, 20);
+    background: rgb(204, 184, 184);
+    margin-top: 100px;
+    padding: 130px 150px;
+
 }
 
-.footer-clumn{
-    color: white;
-    display: flex;
-    text-align: center;
-    /* Group 3936 */
-position: absolute;
-width: 485px;
-height: 317px;
-left: 230px;
-right: 885px;
-top: 2782.26px;
-bottom: 129.74px;
-}
+
+
